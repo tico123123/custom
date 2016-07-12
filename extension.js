@@ -95,7 +95,7 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
+      rulesLink: teste.com,
       themeLink: null,
       fbLink: null,
       youtubeLink: null,
